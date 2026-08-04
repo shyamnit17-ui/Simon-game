@@ -21,7 +21,7 @@ Simon-Game/
 │── README.md
 ```
 
-## 👨‍💻 Author
+##  Author
 
 **Shyam Rathod**
 
